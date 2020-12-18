@@ -2,17 +2,14 @@
    <h1>Hi there, I'm <a href="https://www.linkedin.com/in/sharvilkekre/">Sharvil</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<!--
-**skekre98/skekre98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" >
+	<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    	<img  src="https://github-readme-stats.vercel.app/api?username=skekre98&&show_icons=true&theme=radical"/>
+  	</a>
+</p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at [Nutanix](https://www.nutanix.com/)
+- 👯 I’m looking to collaborate on [NBA Search](https://github.com/skekre98/NBA-Search)
+- 🤔 I’m looking for help with [SimpleLearn](https://github.com/skekre98/simple_learn)
+- ⚡ Fun fact: My dogs likes food more than me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
