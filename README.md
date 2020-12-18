@@ -5,7 +5,7 @@
 - 🌇 I’m currently working at [Nutanix](https://www.nutanix.com/)
 - 👥 I’m looking to collaborate on [NBA Search](https://github.com/skekre98/NBA-Search)
 - 🤔 I’m looking for help with [SimpleLearn](https://github.com/skekre98/simple_learn)
-- ⚡ Fun fact: My dogs likes food more than me
+- ⚡ Fun fact: My dog likes food more than me
 
 <p align="center" >
 	<a href="https://github.com/skekre98/skekre98"> 
