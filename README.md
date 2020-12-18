@@ -22,5 +22,5 @@
 	<a target="_blank"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-%2312100E.svg?logo=tensorflow&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="sklearn" src="https://img.shields.io/badge/Sklearn-%2312100E.svg?logo=scikit-learn&style=for-the-badge"/></a>
 	<a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a>
-	<a target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/></a>  
+	<a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/linux-%2312100E.svg?logo=git&style=for-the-badge"/></a>  
 </p>
