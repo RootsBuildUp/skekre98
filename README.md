@@ -3,7 +3,9 @@
 </div>
 
 <p align="center" >
-	| <a href="https://github.com/skekre98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?				username=skekre98&show_icons=true&include_all_commits=true&theme=solarized-dark&hide_border=true" alt="github stats" /></a> | <a 				href="https://github.com/skekre98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?				username=skekre98&layout=compact&theme=solarized-dark&hide_border=true" /></a> |
+	<a href="https://github.com/skekre98/skekre98"> 
+    	<img  src="https://github-readme-stats.vercel.app/api?username=skekre98&&show_icons=true&count_private=true&theme=solarized-dark"/>
+  	</a>
 </p>
 
 <p align="center">
