@@ -5,7 +5,6 @@
 <p align="center" >
 	<a href="https://github.com/skekre98/skekre98"> 
     	<img  src="https://github-readme-stats.vercel.app/api?username=skekre98&&show_icons=true&count_private=true&theme=solarized-dark"/>
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skekre98&layout=compact&count_private=true&theme=solarized-dark&hide_border=true" />
   	</a>
 </p>
 
