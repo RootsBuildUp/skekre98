@@ -11,7 +11,7 @@
 <p align="center">
 	<a target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="Golang" src="https://img.shields.io/badge/Go-%2312100E.svg?logo=go&style=for-the-badge"/></a> 
-	<a target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/Javascript-%2312100E.svg?logo=javascript&style=for-the-badge"/></a> 
+	<a target="_blank"><img alt="C++" src="https://img.shields.io/badge/CPlusPlus-%2312100E.svg?logo=cplusplust&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="Flask" src="https://img.shields.io/badge/Flask-%2312100E.svg?logo=flask&style=for-the-badge"/></a>
 	<a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%2312100E.svg?logo=docker&style=for-the-badge"/></a>
 	<a target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%2312100E.svg?logo=kubernetes&style=for-the-badge"/></a>
