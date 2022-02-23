@@ -12,8 +12,6 @@
 	<a target="_blank"><img alt="" src="https://img.shields.io/badge/Python-%2312100E.svg?logo=python&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="Golang" src="https://img.shields.io/badge/Golang-%2312100E.svg?logo=go&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="C++" src="https://img.shields.io/badge/c++-%2312100E.svg?logo=c%2B%2B&style=for-the-badge"/></a> 
-	<a target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-%2312100E.svg?logo=docker&style=for-the-badge"/></a>
-	<a target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%2312100E.svg?logo=kubernetes&style=for-the-badge"/></a>
 	<a target="_blank"><img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-%2312100E.svg?logo=tensorflow&style=for-the-badge"/></a> 
 	<a target="_blank"><img alt="Sklearn" src="https://img.shields.io/badge/Sklearn-%2312100E.svg?logo=scikit-learn&style=for-the-badge"/></a>
 	<a target="_blank"><img alt="Linux" src="https://img.shields.io/badge/Linux-%2312100E.svg?logo=linux&style=for-the-badge"/></a> 
